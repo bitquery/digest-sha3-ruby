@@ -1,0 +1,5 @@
+*.DS_Store
+*.o
+*.bundle
+Makefile
+test/test_vectors.rb
